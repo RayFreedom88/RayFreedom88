@@ -1,4 +1,4 @@
-![Ildar's GitHub Banner](./images/git-hub-header.png)
+![Ildar's GitHub Banner](./images/git-hub-header-orange.png)
 <!-- ### Hi, I'm Ildar, a frontend developer.-->
 
 ## 🔮 My skills:
@@ -20,6 +20,9 @@
   
   <p>Other:</p>
   
+  ![Webpack](https://img.shields.io/static/v1?message=webpack&logo=webpack&style=for-the-badge&color=1f1e34&label=%20)
+  ![Gulp](https://img.shields.io/static/v1?message=gulp&logo=gulp&style=for-the-badge&color=1f1e34&label=%20)
+  ![Sass](https://img.shields.io/static/v1?message=sass&logo=sass&style=for-the-badge&color=1f1e34&label=%20)
   ![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=1f1e34&label=%20)
   ![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=1f1e34&label=%20)
   ![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
