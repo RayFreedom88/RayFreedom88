@@ -1,10 +1,6 @@
 [![Ildar's GitHub Banner](./images/git-hub-header-orange.png)](https://github.com/RayFreedom88)
 
-<!-- ### Hi, I'm Ildar, a frontend developer.-->
-
-Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender) and [Yandex.Praktikum](https://practicum.yandex.ru/react/) 
-
-<!-- <img align="center" src="https://media.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif" alt="javascript" height="100" width="100" /> -->
+#### Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender) and [Yandex.Praktikum](https://practicum.yandex.ru/react/) 👨🏽‍🎓 
 
 ## <img src="https://media.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="50"> My skills
 
