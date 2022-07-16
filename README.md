@@ -1,4 +1,5 @@
-![Ildar's GitHub Banner](./images/git-hub-header-orange.png)
+![Ildar's GitHub Banner](./images/git-hub-header-orange.png)(https://github.com/RayFreedom88)
+
 <!-- ### Hi, I'm Ildar, a frontend developer.-->
 
 ## 🔮 My skills:
@@ -11,11 +12,11 @@
 ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1d572d&label=%20)
 
 <details>
-  <summary>More Skills</summary>
+  <summary>More Skills (click me)</summary>
   <br>
   <p>Together with React:</p>
   
-  ![Redux/toolkit](https://img.shields.io/static/v1?message=redux/toolkit&logo=redux&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
+  ![Redux](https://img.shields.io/static/v1?message=redux&logo=redux&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
   ![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
   
   <p>Other:</p>
@@ -31,7 +32,7 @@
 
 </details>
 
-## &#x1f4c8; GitHub Stats
+## 📊 GitHub Stats
 
 <br>
 
