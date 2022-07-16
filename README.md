@@ -36,9 +36,9 @@
 <br>
 
 <a href="https://github.com/RayFreedom88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&theme=radical" />
 </a>
 
 <a href="https://github.com/RayFreedom88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayFreedom88&show_icons=true&count_private=true&theme=omni" alt="Ildar's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayFreedom88&show_icons=true&count_private=true&theme=radical" alt="Ildar's GitHub Stats" />
 </a>
