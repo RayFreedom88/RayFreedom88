@@ -2,6 +2,8 @@
 
 <!-- ### Hi, I'm Ildar, a frontend developer.-->
 
+Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender) and [Yandex.Praktikum](https://practicum.yandex.ru/react/) 👨🏽‍🎓
+
 ## 🔮 My skills:
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1d572d&label=%20)
