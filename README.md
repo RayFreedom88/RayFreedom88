@@ -2,9 +2,11 @@
 
 <!-- ### Hi, I'm Ildar, a frontend developer.-->
 
-Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender) and [Yandex.Praktikum](https://practicum.yandex.ru/react/) 👨🏽‍🎓
+Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender) and [Yandex.Praktikum](https://practicum.yandex.ru/react/) 
 
-## 🔮 My skills:
+<!-- <img align="center" src="https://media.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif" alt="javascript" height="100" width="100" /> -->
+
+## <img src="https://media.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="50"> My skills:
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1d572d&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&logoColor=2965f0&color=1d572d&label=%20)
@@ -14,7 +16,7 @@ Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender)
 ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1d572d&label=%20)
 
 <details>
-  <summary>More Skills (click me)</summary>
+  <summary>More Skills <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="50"></summary>
   <br>
   <p>Together with React:</p>
   
@@ -48,7 +50,7 @@ Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender)
 
 <a href="https://github.com/RayFreedom88">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&hide_border=true&title_color=d83a7c&theme=merko" />
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/RayFreedom88">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayFreedom88&show_icons=true&count_private=true&border_color=1d572d&title_color=d83a7c&theme=merko" alt="Ildar's GitHub Stats" />
@@ -59,6 +61,7 @@ Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender)
 <a href="https://t.me/RayFreedom13" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="yandex" height="25" width="25" />
 </a>&nbsp;&nbsp;
+
 <a href="mailto:captain.musin@yandex.ru" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" alt="yandex" height="25" width="25" />
 </a>
