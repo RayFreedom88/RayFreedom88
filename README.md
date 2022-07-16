@@ -3,12 +3,12 @@
 
 ## 🔮 My skills:
 
-![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20)
-![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&logoColor=2965f0&color=1f1e34&label=%20)
+![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=12261e&label=%20)
+![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&logoColor=2965f0&color=12261e&label=%20)
 
-![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
-![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
-![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
+![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=12261e&label=%20)
+![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=12261e&label=%20)
+![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=12261e&label=%20)
 
 <details>
   <summary>More Skills</summary>
@@ -36,9 +36,9 @@
 <br>
 
 <a href="https://github.com/RayFreedom88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&hide_border=true&theme=merko" />
 </a>
 
 <a href="https://github.com/RayFreedom88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayFreedom88&show_icons=true&count_private=true&theme=radical" alt="Ildar's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayFreedom88&show_icons=true&count_private=true&border_color=1d572d&theme=merko" alt="Ildar's GitHub Stats" />
 </a>
