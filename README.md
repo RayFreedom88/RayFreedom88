@@ -1,4 +1,5 @@
-### Hi, I'm Ildar, a frontend developer.
+![Ildar's GitHub Banner](./images/git-hub-header.png)
+<!-- ### Hi, I'm Ildar, a frontend developer.-->
 
 ## 🔮 My skills:
 
