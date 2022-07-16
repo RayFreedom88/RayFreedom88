@@ -45,7 +45,7 @@
 <br>
 
 <a href="https://github.com/RayFreedom88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&hide_border=true&title_color=d83a7c&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&border_color=1d572d&title_color=d83a7c&theme=merko" />
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/RayFreedom88">
