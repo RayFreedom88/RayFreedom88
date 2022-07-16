@@ -6,7 +6,7 @@ Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender)
 
 <!-- <img align="center" src="https://media.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif" alt="javascript" height="100" width="100" /> -->
 
-## <img src="https://media.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="50"> My skills:
+## <img src="https://media.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="50"> My skills
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1d572d&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&logoColor=2965f0&color=1d572d&label=%20)
