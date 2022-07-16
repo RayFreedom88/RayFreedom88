@@ -70,3 +70,5 @@
     <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&color=38765D&background=000000&center=true&vCenter=true&lines=The+Matrix+has+you...;Follow+the+White+Rabbit." />
   </a>
 </div>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=RayFreedom88&label=👀&labelColor=%2312261e&countColor=%2312261e&style=flat-square&labelStyle=upper)](https://visitorbadge.io/status?path=RayFreedom88)
