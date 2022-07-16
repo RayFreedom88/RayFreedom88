@@ -1,4 +1,4 @@
-![Ildar's GitHub Banner](./images/git-hub-header-orange.png)(https://github.com/RayFreedom88)
+[![Ildar's GitHub Banner](./images/git-hub-header-orange.png)](https://github.com/RayFreedom88)
 
 <!-- ### Hi, I'm Ildar, a frontend developer.-->
 
