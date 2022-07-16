@@ -30,3 +30,15 @@
   ![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1f1e34&label=%20)
 
 </details>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/RayFreedom88">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayFreedom88&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/RayFreedom88">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayFreedom88&show_icons=true&count_private=true&theme=omni" alt="Ildar's GitHub Stats" />
+</a>
