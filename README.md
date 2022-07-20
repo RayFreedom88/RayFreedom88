@@ -18,6 +18,7 @@
   
   ![Redux](https://img.shields.io/static/v1?message=redux&logo=redux&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
   ![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
+  ![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
   ![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=12261e&label=%20)
   ![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=12261e&label=%20)
   
