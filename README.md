@@ -30,7 +30,6 @@
   ![Gulp](https://img.shields.io/static/v1?message=gulp&logo=gulp&style=for-the-badge&color=12261e&label=%20)
   
   ![Sass](https://img.shields.io/static/v1?message=sass&logo=sass&style=for-the-badge&color=12261e&label=%20)
-  ![PUG](https://img.shields.io/static/v1?message=pug&logo=pug&style=for-the-badge&color=12261e&label=%20)
   ![BEM](https://img.shields.io/static/v1?message=bem&logo=bem&style=for-the-badge&color=12261e&label=%20)
   
   ![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=12261e&label=%20)
