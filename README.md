@@ -62,6 +62,8 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" alt="yandex" height="25" width="25" />
 </a>
 
+<a href="https://career.habr.com/rayfreedom" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1205171034938335232/Hor30ilG_400x400.jpg" alt="habr career" height="25" width="25" /></a>
+
 <br>
 <br>
 
