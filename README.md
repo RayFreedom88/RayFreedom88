@@ -15,10 +15,15 @@
   <summary>More Skills <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="50"></summary>
   <br>
   <p>Together with React:</p>
-  
-  ![Redux](https://img.shields.io/static/v1?message=redux&logo=redux&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
+
+  ![React Router](https://img.shields.io/static/v1?message=react+router&logo=react-router&style=for-the-badge&&logoColor=white&color=12261e&label=%20)
+
   ![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
+  ![Redux](https://img.shields.io/static/v1?message=redux&logo=redux&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
+  
+  ![Styled Components](https://img.shields.io/static/v1?message=styled-components&logo=styled-components&style=for-the-badge&&logoColor=DB7093&color=12261e&label=%20)
   ![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
+  
   ![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=12261e&label=%20)
   ![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=12261e&label=%20)
   
@@ -36,7 +41,6 @@
   ![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=12261e&label=%20)
   
   ![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=12261e&label=%20)
-  ![Photoshop](https://img.shields.io/static/v1?message=photoshop&logo=adobephotoshop&style=for-the-badge&color=12261e&label=%20)
 
 </details>
 
