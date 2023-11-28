@@ -19,27 +19,27 @@
 ![Yarn](https://img.shields.io/static/v1?message=yarn&logo=yarn&style=for-the-badge&color=1d572d&label=%20)
 ![NPM](https://img.shields.io/static/v1?message=npm&logo=npm&style=for-the-badge&color=1d572d&label=%20)
 
+> Frontend:
+
+![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1d572d&label=%20)
+![React Router](https://img.shields.io/static/v1?message=react+router&logo=react-router&style=for-the-badge&&logoColor=white&color=1d572d&label=%20)
+
+![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=1d572d&label=%20)
+![Redux](https://img.shields.io/static/v1?message=redux&logo=redux&style=for-the-badge&&logoColor=593d88&color=1d572d&label=%20)
+
+![Styled Components](https://img.shields.io/static/v1?message=styled-components&logo=styled-components&style=for-the-badge&&logoColor=DB7093&color=1d572d&label=%20)
+![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&&logoColor=593d88&color=1d572d&label=%20)
+![Sass](https://img.shields.io/static/v1?message=sass&logo=sass&style=for-the-badge&color=1d572d&label=%20)
+
+![Vite](https://img.shields.io/static/v1?message=vite&logo=vite&style=for-the-badge&color=1d572d&label=%20)
+![Webpack](https://img.shields.io/static/v1?message=webpack&logo=webpack&style=for-the-badge&color=1d572d&label=%20)
+![Gulp](https://img.shields.io/static/v1?message=gulp&logo=gulp&style=for-the-badge&color=1d572d&label=%20)
+
+![JWT](https://img.shields.io/static/v1?message=jwt&logo=jsonwebtokens&style=for-the-badge&color=1d572d&label=%20)
+
 <details>
   <summary>More Skills <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="50"></summary>
   <br>
-  
-  > Frontend:
-  
-  ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=12261e&label=%20)
-  ![React Router](https://img.shields.io/static/v1?message=react+router&logo=react-router&style=for-the-badge&&logoColor=white&color=12261e&label=%20)
-
-  ![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
-  ![Redux](https://img.shields.io/static/v1?message=redux&logo=redux&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
-  
-  ![Styled Components](https://img.shields.io/static/v1?message=styled-components&logo=styled-components&style=for-the-badge&&logoColor=DB7093&color=12261e&label=%20)
-  ![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
-  ![Sass](https://img.shields.io/static/v1?message=sass&logo=sass&style=for-the-badge&color=12261e&label=%20)
-
-  ![Vite](https://img.shields.io/static/v1?message=vite&logo=vite&style=for-the-badge&color=12261e&label=%20)
-  ![Webpack](https://img.shields.io/static/v1?message=webpack&logo=webpack&style=for-the-badge&color=12261e&label=%20)
-  ![Gulp](https://img.shields.io/static/v1?message=gulp&logo=gulp&style=for-the-badge&color=12261e&label=%20)
-
-  ![JWT](https://img.shields.io/static/v1?message=jwt&logo=jsonwebtokens&style=for-the-badge&color=12261e&label=%20)
 
   > Code quality:
 
