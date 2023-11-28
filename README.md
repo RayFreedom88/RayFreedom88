@@ -3,19 +3,29 @@
 #### Graduate student of [HTML Academy](https://htmlacademy.ru/profession/frontender) and [Yandex.Praktikum](https://practicum.yandex.ru/react/) 👨🏽‍🎓 
 
 ## <img src="https://media.giphy.com/media/xUA7aSFO36H6sWCmA0/giphy.gif" width="50"> My skills
+> General:
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1d572d&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=css3&logo=css3&style=for-the-badge&logoColor=2965f0&color=1d572d&label=%20)
 
 ![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1d572d&label=%20)
 ![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1d572d&label=%20)
-![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1d572d&label=%20)
+
+![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=12261e&label=%20)
+
+![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=12261e&label=%20)
+![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=12261e&label=%20)
+
+![Yarn](https://img.shields.io/static/v1?message=yarn&logo=yarn&style=for-the-badge&color=12261e&label=%20)
+![NPM](https://img.shields.io/static/v1?message=npm&logo=npm&style=for-the-badge&color=12261e&label=%20)
 
 <details>
   <summary>More Skills <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="50"></summary>
   <br>
-  <p>Together with React:</p>
-
+  
+  > Frontend:
+  
+  ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1d572d&label=%20)
   ![React Router](https://img.shields.io/static/v1?message=react+router&logo=react-router&style=for-the-badge&&logoColor=white&color=12261e&label=%20)
 
   ![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
@@ -23,25 +33,25 @@
   
   ![Styled Components](https://img.shields.io/static/v1?message=styled-components&logo=styled-components&style=for-the-badge&&logoColor=DB7093&color=12261e&label=%20)
   ![Framer motion](https://img.shields.io/static/v1?message=framer+motion&logo=framer&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
-  
-  ![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=12261e&label=%20)
-  ![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=12261e&label=%20)
-  
-  <p>Other:</p>
-  
-  ![JWT](https://img.shields.io/static/v1?message=jwt&logo=jsonwebtokens&style=for-the-badge&color=12261e&label=%20)
-  
+  ![Sass](https://img.shields.io/static/v1?message=sass&logo=sass&style=for-the-badge&color=12261e&label=%20)
+
+  ![Vite](https://img.shields.io/static/v1?message=vite&logo=vite&style=for-the-badge&color=12261e&label=%20)
   ![Webpack](https://img.shields.io/static/v1?message=webpack&logo=webpack&style=for-the-badge&color=12261e&label=%20)
   ![Gulp](https://img.shields.io/static/v1?message=gulp&logo=gulp&style=for-the-badge&color=12261e&label=%20)
-  
-  ![Sass](https://img.shields.io/static/v1?message=sass&logo=sass&style=for-the-badge&color=12261e&label=%20)
+
+  ![JWT](https://img.shields.io/static/v1?message=jwt&logo=jsonwebtokens&style=for-the-badge&color=12261e&label=%20)
+
+  > Code quality:
+
+  ![Stylelint](https://img.shields.io/static/v1?message=stylelint&logo=stylelint&style=for-the-badge&color=12261e&label=%20)
+  ![Eslint](https://img.shields.io/static/v1?message=eslint&logo=eslint&style=for-the-badge&color=12261e&label=%20)
+  ![Prettier](https://img.shields.io/static/v1?message=prettier&logo=prettier&style=for-the-badge&color=12261e&label=%20)
   ![BEM](https://img.shields.io/static/v1?message=bem&logo=bem&style=for-the-badge&color=12261e&label=%20)
   
-  ![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=12261e&label=%20)
-  ![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=12261e&label=%20)
-  
-  ![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=12261e&label=%20)
+  > Testing:
 
+  ![Jest](https://img.shields.io/static/v1?message=jest&logo=jest&style=for-the-badge&color=12261e&label=%20)
+  ![Cypress](https://img.shields.io/static/v1?message=cypress&logo=cypress&style=for-the-badge&color=12261e&label=%20)
 </details>
 
 ## 📊 GitHub Stats
