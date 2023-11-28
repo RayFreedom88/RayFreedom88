@@ -11,13 +11,13 @@
 ![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&style=for-the-badge&color=1d572d&label=%20)
 ![TYPESCRIPT](https://img.shields.io/static/v1?message=typescript&logo=typescript&style=for-the-badge&color=1d572d&label=%20)
 
-![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=12261e&label=%20)
+![Figma](https://img.shields.io/static/v1?message=figma&logo=figma&style=for-the-badge&color=1d572d&label=%20)
 
-![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=12261e&label=%20)
-![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=12261e&label=%20)
+![Git](https://img.shields.io/static/v1?message=git&logo=git&style=for-the-badge&color=1d572d&label=%20)
+![Github](https://img.shields.io/static/v1?message=github&logo=github&style=for-the-badge&color=1d572d&label=%20)
 
-![Yarn](https://img.shields.io/static/v1?message=yarn&logo=yarn&style=for-the-badge&color=12261e&label=%20)
-![NPM](https://img.shields.io/static/v1?message=npm&logo=npm&style=for-the-badge&color=12261e&label=%20)
+![Yarn](https://img.shields.io/static/v1?message=yarn&logo=yarn&style=for-the-badge&color=1d572d&label=%20)
+![NPM](https://img.shields.io/static/v1?message=npm&logo=npm&style=for-the-badge&color=1d572d&label=%20)
 
 <details>
   <summary>More Skills <img src="https://media.giphy.com/media/xUA7aO3740serwGGze/giphy.gif" width="50"></summary>
@@ -25,7 +25,7 @@
   
   > Frontend:
   
-  ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1d572d&label=%20)
+  ![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=12261e&label=%20)
   ![React Router](https://img.shields.io/static/v1?message=react+router&logo=react-router&style=for-the-badge&&logoColor=white&color=12261e&label=%20)
 
   ![Effector](https://img.shields.io/static/v1?message=effector&logo=effector&style=for-the-badge&&logoColor=593d88&color=12261e&label=%20)
